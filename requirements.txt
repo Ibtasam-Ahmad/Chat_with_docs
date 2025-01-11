@@ -103,3 +103,4 @@ chromadb==0.3.29
 tiktoken
 unstructured[local-inference]
 layoutparser[layoutmodels,tesseract]
+distutils
