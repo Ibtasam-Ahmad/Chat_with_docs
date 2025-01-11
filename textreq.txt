@@ -1,0 +1,11 @@
+openai==0.27.9
+langchain
+langchain-community
+docx2txt
+pypdf
+streamlit
+chromadb==0.3.29 
+tiktoken
+unstructured[local-inference]
+layoutparser[layoutmodels,tesseract]
+distutils
